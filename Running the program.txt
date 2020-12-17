@@ -1,0 +1,12 @@
+Running the program:
+
+
+To start the program, you need to type in terminal:
+
+python3 Astar_project.py start
+
+
+
+For help type in terminal:
+
+python3 Astar_project.py help
